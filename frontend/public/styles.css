@@ -1,0 +1,58 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    margin: 0; 
+}
+
+form{
+    padding: 5% 30%;
+}
+
+form .form-button{
+    display: block;
+    margin: 10% auto 0;
+    padding: 10px 90px;
+}
+
+.home-buttons{
+    width: 50%;
+    margin: auto;
+}
+
+label{
+    font-weight: 600;
+}
+
+.response-msg{
+    margin: 5% 0;
+    text-align: center;
+}
+
+.title {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1% 0;
+    margin: 0;
+}
+
+.update-mobile-button{
+    position: relative;
+    bottom: 2px;
+    padding: 6px 15px;
+}
+
+.update-mobile-field{
+    width: 40%;
+    display: inline-block;
+    margin: 4% 2% 0 30%;
+}
+
+.update-mobile-field .form-button{
+    display: block;
+    margin: 5% auto 0;  
+    padding: 8px 25px;
+}
+
